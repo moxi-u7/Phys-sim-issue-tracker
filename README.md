@@ -9,3 +9,6 @@ To submit a new issue: [Click Here](https://github.com/moxi-u7/Phys-sim-issue-tr
 ## Current Issues
 
 To check the current issues: [Click Here](https://github.com/moxi-u7/Phys-sim-issue-tracker/issues)
+
+
+> send bugs, or feature Requests.
